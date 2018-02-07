@@ -1,5 +1,3 @@
 markdown: kramdown
 theme: minima
-highlighter: rouge
-plugins:
- - jekyll-feed
+
