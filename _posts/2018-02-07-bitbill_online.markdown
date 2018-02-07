@@ -2,11 +2,8 @@
 #layout: post
 title:  "Bitbill正式上线"
 date:   2018-02-07 19:00:46 +0800
-
 ---
-
 ### 苹果下载
-	
 
 **前提条件**		
 >需要非中国区Apple id
