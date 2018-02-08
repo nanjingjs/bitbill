@@ -32,4 +32,7 @@ date:   2018-02-07 19:00:46 +0800
 [官网]: (www.bitbill.com)
 
 [Email]: (hi@bitbill.com)
-[Google](http://www.google.com/)
+
+[Google](http://www.google.com/ "Google")
+
+[link]: http://www.google.com/ "Google"
