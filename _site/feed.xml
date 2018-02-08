@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-08T13:20:55+08:00</updated><id>http://localhost:4000/</id><title type="html">最安全最好用的数字资产钱包</title><subtitle></subtitle><entry><title type="html">Bitbill Wallet正式上线，欢迎下载使用！！</title><link href="http://localhost:4000/2018/02/08/bitbill_online.html" rel="alternate" type="text/html" title="Bitbill Wallet正式上线，欢迎下载使用！！" /><published>2018-02-08T13:00:46+08:00</published><updated>2018-02-08T13:00:46+08:00</updated><id>http://localhost:4000/2018/02/08/bitbill_online</id><content type="html" xml:base="http://localhost:4000/2018/02/08/bitbill_online.html">&lt;h3 id=&quot;苹果下载&quot;&gt;苹果下载&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-08T13:21:54+08:00</updated><id>http://localhost:4000/</id><title type="html">最安全最好用的数字资产钱包</title><subtitle></subtitle><entry><title type="html">Bitbill Wallet正式上线，欢迎下载使用！！</title><link href="http://localhost:4000/2018/02/08/bitbill_online.html" rel="alternate" type="text/html" title="Bitbill Wallet正式上线，欢迎下载使用！！" /><published>2018-02-08T13:00:46+08:00</published><updated>2018-02-08T13:00:46+08:00</updated><id>http://localhost:4000/2018/02/08/bitbill_online</id><content type="html" xml:base="http://localhost:4000/2018/02/08/bitbill_online.html">&lt;h3 id=&quot;苹果下载&quot;&gt;苹果下载&lt;/h3&gt;
 
 &lt;p&gt;前提条件&lt;/p&gt;
 
@@ -90,67 +90,36 @@
     &lt;p&gt;通过扫描添加	
     联系人—&amp;gt; 立即添加 —&amp;gt; 扫描添加 —&amp;gt; 扫描比特币地址二维码 —&amp;gt; 输入联系人名称 —&amp;gt; 完成&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">创建钱包     首次打开Bitbill会看到“创建钱包”的选项，点击 创建钱包 —&amp;gt; 我知道了—&amp;gt; 输入ID —&amp;gt; 输入密码 —&amp;gt; 确认密码 —&amp;gt; 完成</summary></entry><entry><title type="html">注册非中国区ID</title><link href="http://localhost:4000/jekyll/update/2018/02/07/appleid.html" rel="alternate" type="text/html" title="注册非中国区ID" /><published>2018-02-07T15:00:46+08:00</published><updated>2018-02-07T15:00:46+08:00</updated><id>http://localhost:4000/jekyll/update/2018/02/07/appleid</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/02/07/appleid.html">&lt;h3 id=&quot;创建钱包&quot;&gt;创建钱包&lt;/h3&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">创建钱包     首次打开Bitbill会看到“创建钱包”的选项，点击 创建钱包 —&amp;gt; 我知道了—&amp;gt; 输入ID —&amp;gt; 输入密码 —&amp;gt; 确认密码 —&amp;gt; 完成</summary></entry><entry><title type="html">注册非中国区ID</title><link href="http://localhost:4000/jekyll/update/2018/02/07/appleid.html" rel="alternate" type="text/html" title="注册非中国区ID" /><published>2018-02-07T15:00:46+08:00</published><updated>2018-02-07T15:00:46+08:00</updated><id>http://localhost:4000/jekyll/update/2018/02/07/appleid</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/02/07/appleid.html">&lt;p&gt;&lt;strong&gt;工具&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;    首次打开Bitbill会看到“&lt;strong&gt;创建钱包&lt;/strong&gt;”的选项，点击 创建钱包 —&amp;gt; 我知道了—&amp;gt; 输入ID —&amp;gt; 输入密码 —&amp;gt; 确认密码 —&amp;gt; 完成&lt;/p&gt;
+&lt;p&gt;VPN 必须是设置成全局代理&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;钱包ID是你在使用Bitbill钱包时的唯一ID，此ID只在Bitbill有效，通过ID可以进行添加联系人、发送比特币等操作&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;备份钱包&quot;&gt;备份钱包&lt;/h3&gt;
-
-&lt;p&gt;备份钱包主要有两种选择&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;准备工作&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;钱包创建完成的同时备份钱包		
-备份钱包 —&amp;gt; 输入密码 —&amp;gt; 抄写助记词 —&amp;gt; 验证助记词 —&amp;gt; 完成&lt;/p&gt;
+    &lt;p&gt;VPN全局代理下，查看手机当前IP所属国家，百度搜索“IP地址查询”就会显示&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;创建钱包时未备份，选择后续备份&lt;/p&gt;
+    &lt;p&gt;将手机地区更改到IP所在的国家，更改步骤设置–通用–语言与地区&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;注销当前登录的Apple ID、icloud，注销方法进行 设置 节目最上面注销&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;将Appstore更改到IP所在的国家，更改办法，在Appstore点击登录，会看到创建新Apple ID选项，点击创建新ID，可以更改国家。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;网上搜索一个该国家的地址电话邮编&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;资产—&amp;gt; 钱包—&amp;gt; 输入密码-—&amp;gt; 抄写助记词 —&amp;gt; 验证助记词 —&amp;gt; 完成&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;接收—&amp;gt; 马上备份—&amp;gt; 输入密码-—&amp;gt; 抄写助记词 —&amp;gt; 验证助记词 —&amp;gt; 完成&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;我—&amp;gt; 钱包—&amp;gt;立即备份—&amp;gt; 输入密码-—&amp;gt; 抄写助记词 —&amp;gt; 验证助记词 —&amp;gt; 完成&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;h4 id=&quot;提示能够注册成功的关键点是ip所在国家appstore所在国家ios系统设置的国家要一致&quot;&gt;提示：能够注册成功的关键点是IP所在国家、Appstore所在国家、IOS系统设置的国家要一致。&lt;/h4&gt;
 
-&lt;h3 id=&quot;导入钱包&quot;&gt;导入钱包&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;注册&lt;/strong&gt;&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Bitbill新用户导入		
-打开Bitbill会看到“&lt;strong&gt;导入钱包&lt;/strong&gt;”的选项，点击 导入钱包 —&amp;gt; 输入助记词 —&amp;gt;输入钱包ID —&amp;gt; 输入密码—&amp;gt; 码确认密码—&amp;gt; 完成&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Bitbill老用户导入		
-打开Bitbill会看到“&lt;strong&gt;导入钱包&lt;/strong&gt;”的选项，点击 导入钱包 —&amp;gt; 输入助记词 —&amp;gt; 输入密码—&amp;gt; 码确认密码—&amp;gt; 完成&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;在Appstore里找到一个免费的应用点击获取，然后根据提示创建新的ID&lt;/p&gt;
 
-&lt;h3 id=&quot;删除钱包&quot;&gt;删除钱包&lt;/h3&gt;
-&lt;p&gt;我—&amp;gt; 钱包集成 —&amp;gt;选择钱包 —&amp;gt; 删除钱包&lt;/p&gt;
+&lt;p&gt;一定要选择免费的应用，支付方式才会出现“无”，另外这里弹出的默认国家一定要是IP所在国家，如果默认国家不对，需要回到准备工作第4步，更改好。&lt;/p&gt;
 
-&lt;h3 id=&quot;添加联系人&quot;&gt;添加联系人&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;通过ID添加		
-    联系人—&amp;gt; 立即添加 —&amp;gt; 通过ID添加 —&amp;gt; 输入bitbill钱包ID —&amp;gt; 点击查找按钮 —&amp;gt; 输入联系		人名称 —&amp;gt; 完成&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;通过地址添加	
-    联系人—&amp;gt; 立即添加 —&amp;gt; 通过地址添加 —&amp;gt; 输入联系人名称、比特币地址 —&amp;gt; 完成&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;通过扫描添加	
-    联系人—&amp;gt; 立即添加 —&amp;gt; 扫描添加 —&amp;gt; 扫描比特币地址二维码 —&amp;gt; 输入联系人名称 —&amp;gt; 完成&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">创建钱包     首次打开Bitbill会看到“创建钱包”的选项，点击 创建钱包 —&amp;gt; 我知道了—&amp;gt; 输入ID —&amp;gt; 输入密码 —&amp;gt; 确认密码 —&amp;gt; 完成</summary></entry></feed>
+&lt;p&gt;根据提示填好之前准备的地址即可完成创建。&lt;/p&gt;</content><author><name></name></author><summary type="html">工具 VPN 必须是设置成全局代理 准备工作 VPN全局代理下，查看手机当前IP所属国家，百度搜索“IP地址查询”就会显示</summary></entry></feed>
