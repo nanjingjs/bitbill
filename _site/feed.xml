@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-08T13:01:38+08:00</updated><id>http://localhost:4000/</id><title type="html">最安全最好用的数字资产钱包</title><subtitle></subtitle><entry><title type="html">Bitbill Wallet正式上线，欢迎下载使用！！</title><link href="http://localhost:4000/2018/02/07/bitbill_online.html" rel="alternate" type="text/html" title="Bitbill Wallet正式上线，欢迎下载使用！！" /><published>2018-02-07T19:00:46+08:00</published><updated>2018-02-07T19:00:46+08:00</updated><id>http://localhost:4000/2018/02/07/bitbill_online</id><content type="html" xml:base="http://localhost:4000/2018/02/07/bitbill_online.html">&lt;h3 id=&quot;苹果下载&quot;&gt;苹果下载&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-08T13:20:55+08:00</updated><id>http://localhost:4000/</id><title type="html">最安全最好用的数字资产钱包</title><subtitle></subtitle><entry><title type="html">Bitbill Wallet正式上线，欢迎下载使用！！</title><link href="http://localhost:4000/2018/02/08/bitbill_online.html" rel="alternate" type="text/html" title="Bitbill Wallet正式上线，欢迎下载使用！！" /><published>2018-02-08T13:00:46+08:00</published><updated>2018-02-08T13:00:46+08:00</updated><id>http://localhost:4000/2018/02/08/bitbill_online</id><content type="html" xml:base="http://localhost:4000/2018/02/08/bitbill_online.html">&lt;h3 id=&quot;苹果下载&quot;&gt;苹果下载&lt;/h3&gt;
 
 &lt;p&gt;前提条件&lt;/p&gt;
 
@@ -28,7 +28,7 @@
 
 &lt;p&gt;&lt;strong&gt;官网:&lt;/strong&gt; &lt;a href=&quot;http://www.bitbill.com/&quot;&gt;http://www.bitbill.com/&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&quot;mailto:hi@bitbill.com&quot;&gt;hi@bitbill.com&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">苹果下载</summary></entry><entry><title type="html">bitbill使用指南</title><link href="http://localhost:4000/jekyll/update/2018/02/07/bitbilluserguide.html" rel="alternate" type="text/html" title="bitbill使用指南" /><published>2018-02-07T15:00:46+08:00</published><updated>2018-02-07T15:00:46+08:00</updated><id>http://localhost:4000/jekyll/update/2018/02/07/bitbilluserguide</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/02/07/bitbilluserguide.html">&lt;p&gt;###创建钱包&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&quot;mailto:hi@bitbill.com&quot;&gt;hi@bitbill.com&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">苹果下载</summary></entry><entry><title type="html">bitbill使用指南</title><link href="http://localhost:4000/jekyll/update/2018/02/07/bitbilluserguide.html" rel="alternate" type="text/html" title="bitbill使用指南" /><published>2018-02-07T15:00:46+08:00</published><updated>2018-02-07T15:00:46+08:00</updated><id>http://localhost:4000/jekyll/update/2018/02/07/bitbilluserguide</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/02/07/bitbilluserguide.html">&lt;h3 id=&quot;创建钱包&quot;&gt;创建钱包&lt;/h3&gt;
 
 &lt;p&gt;    首次打开Bitbill会看到“&lt;strong&gt;创建钱包&lt;/strong&gt;”的选项，点击 创建钱包 —&amp;gt; 我知道了—&amp;gt; 输入ID —&amp;gt; 输入密码 —&amp;gt; 确认密码 —&amp;gt; 完成&lt;/p&gt;
 
@@ -59,7 +59,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;###导入钱包&lt;/p&gt;
+&lt;h3 id=&quot;导入钱包&quot;&gt;导入钱包&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -72,10 +72,10 @@
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;###删除钱包
-我—&amp;gt; 钱包集成 —&amp;gt;选择钱包 —&amp;gt; 删除钱包&lt;/p&gt;
+&lt;h3 id=&quot;删除钱包&quot;&gt;删除钱包&lt;/h3&gt;
+&lt;p&gt;我—&amp;gt; 钱包集成 —&amp;gt;选择钱包 —&amp;gt; 删除钱包&lt;/p&gt;
 
-&lt;p&gt;###添加联系人&lt;/p&gt;
+&lt;h3 id=&quot;添加联系人&quot;&gt;添加联系人&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -90,12 +90,13 @@
     &lt;p&gt;通过扫描添加	
     联系人—&amp;gt; 立即添加 —&amp;gt; 扫描添加 —&amp;gt; 扫描比特币地址二维码 —&amp;gt; 输入联系人名称 —&amp;gt; 完成&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">###创建钱包     首次打开Bitbill会看到“创建钱包”的选项，点击 创建钱包 —&amp;gt; 我知道了—&amp;gt; 输入ID —&amp;gt; 输入密码 —&amp;gt; 确认密码 —&amp;gt; 完成</summary></entry><entry><title type="html">注册非中国区ID</title><link href="http://localhost:4000/jekyll/update/2018/02/07/appleid.html" rel="alternate" type="text/html" title="注册非中国区ID" /><published>2018-02-07T15:00:46+08:00</published><updated>2018-02-07T15:00:46+08:00</updated><id>http://localhost:4000/jekyll/update/2018/02/07/appleid</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/02/07/appleid.html">&lt;p&gt;###创建钱包&lt;/p&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">创建钱包     首次打开Bitbill会看到“创建钱包”的选项，点击 创建钱包 —&amp;gt; 我知道了—&amp;gt; 输入ID —&amp;gt; 输入密码 —&amp;gt; 确认密码 —&amp;gt; 完成</summary></entry><entry><title type="html">注册非中国区ID</title><link href="http://localhost:4000/jekyll/update/2018/02/07/appleid.html" rel="alternate" type="text/html" title="注册非中国区ID" /><published>2018-02-07T15:00:46+08:00</published><updated>2018-02-07T15:00:46+08:00</updated><id>http://localhost:4000/jekyll/update/2018/02/07/appleid</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/02/07/appleid.html">&lt;h3 id=&quot;创建钱包&quot;&gt;创建钱包&lt;/h3&gt;
 
 &lt;p&gt;    首次打开Bitbill会看到“&lt;strong&gt;创建钱包&lt;/strong&gt;”的选项，点击 创建钱包 —&amp;gt; 我知道了—&amp;gt; 输入ID —&amp;gt; 输入密码 —&amp;gt; 确认密码 —&amp;gt; 完成&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;钱包ID是你在使用Bitbill钱包时的唯一ID，此ID只在Bitbill有效，通过ID可以进行添加联系人、发送比特币等操作&lt;/strong&gt;
-###备份钱包&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;钱包ID是你在使用Bitbill钱包时的唯一ID，此ID只在Bitbill有效，通过ID可以进行添加联系人、发送比特币等操作&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;备份钱包&quot;&gt;备份钱包&lt;/h3&gt;
 
 &lt;p&gt;备份钱包主要有两种选择&lt;/p&gt;
 
@@ -121,7 +122,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;###导入钱包&lt;/p&gt;
+&lt;h3 id=&quot;导入钱包&quot;&gt;导入钱包&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -134,10 +135,10 @@
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;###删除钱包
-我—&amp;gt; 钱包集成 —&amp;gt;选择钱包 —&amp;gt; 删除钱包&lt;/p&gt;
+&lt;h3 id=&quot;删除钱包&quot;&gt;删除钱包&lt;/h3&gt;
+&lt;p&gt;我—&amp;gt; 钱包集成 —&amp;gt;选择钱包 —&amp;gt; 删除钱包&lt;/p&gt;
 
-&lt;p&gt;###添加联系人&lt;/p&gt;
+&lt;h3 id=&quot;添加联系人&quot;&gt;添加联系人&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -152,4 +153,4 @@
     &lt;p&gt;通过扫描添加	
     联系人—&amp;gt; 立即添加 —&amp;gt; 扫描添加 —&amp;gt; 扫描比特币地址二维码 —&amp;gt; 输入联系人名称 —&amp;gt; 完成&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">###创建钱包     首次打开Bitbill会看到“创建钱包”的选项，点击 创建钱包 —&amp;gt; 我知道了—&amp;gt; 输入ID —&amp;gt; 输入密码 —&amp;gt; 确认密码 —&amp;gt; 完成</summary></entry></feed>
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">创建钱包     首次打开Bitbill会看到“创建钱包”的选项，点击 创建钱包 —&amp;gt; 我知道了—&amp;gt; 输入ID —&amp;gt; 输入密码 —&amp;gt; 确认密码 —&amp;gt; 完成</summary></entry></feed>
