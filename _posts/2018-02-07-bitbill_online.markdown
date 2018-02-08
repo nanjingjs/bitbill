@@ -4,8 +4,6 @@ title:  "Bitbill Wallet正式上线 欢迎下载使用"
 date:   2018-02-07 19:00:46 +0800
 ---
 
-Bitbill [官网](https://bitbill.com)
-
 ### 苹果下载
 
 **前提条件**		
