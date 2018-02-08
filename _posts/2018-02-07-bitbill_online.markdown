@@ -10,7 +10,7 @@ date:   2018-02-07 19:00:46 +0800
 > 需要非中国区Apple id
 
 扫描下方二维码下载
-(http://mjrnxewya3t1in23ybpwjw59.wpengine.netdna-cdn.com/wp-content/uploads/buchecha-marcus-almeida-roger-gracie.jpg)
+https://github.com/zhaogangwang/bitbill/blob/master/images/WechatIMG141.jpeg
 
 ### 安卓下载
 
