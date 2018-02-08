@@ -1,6 +1,6 @@
 ---
 #layout: post
-title:  "Bitbill Wallet正式上线欢迎下载使用！！"
+title:  "Bitbill Wallet正式上线！！"
 date:   2018-02-08 13:00:46 +0800
 ---
 
