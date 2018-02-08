@@ -18,7 +18,7 @@ Bitbill [官网](https://bitbill.com)
 
 ![IOS](https://raw.githubusercontent.com/zhaogangwang/bitbill/master/images/WechatIMG141.jpeg)
 
-![IOS](./https://raw.githubusercontent.com/zhaogangwang/bitbill/master/images/WechatIMG141.jpeg =100*100)
+
 ### 安卓下载
 
 **前提条件**		
