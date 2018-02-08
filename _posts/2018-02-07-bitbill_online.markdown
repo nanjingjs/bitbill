@@ -28,9 +28,7 @@ date:   2018-02-07 19:00:46 +0800
 [官网下载地址](https://www.bitbill.com/cn/wallet/)
 
 
-### 联系方式
+### 联系方式  
 
-[官网](https://www.bitbill.com)   
-
-Email: hi@bitbill.com
-[Google]: http://google.com/
+[Email]: www.bitbill.com
+[Email]: hi@bitbill.com
