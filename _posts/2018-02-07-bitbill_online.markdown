@@ -29,6 +29,7 @@ date:   2018-02-07 19:00:46 +0800
 
 
 ### 联系方式  
-[官网]: www.bitbill.com
+[官网]: (www.bitbill.com)
 
-[Email]: hi@bitbill.com
+[Email]: (hi@bitbill.com)
+[Google](http://www.google.com/)
