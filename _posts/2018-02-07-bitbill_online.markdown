@@ -33,6 +33,6 @@ date:   2018-02-07 19:00:46 +0800
 **官网:** <http://www.bitbill.com/>
 
 
-**Email:** hi@bitbill.com
+**Email:** <hi@bitbill.com/>
 
 
