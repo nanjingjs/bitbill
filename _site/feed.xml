@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-08T13:21:54+08:00</updated><id>http://localhost:4000/</id><title type="html">最安全最好用的数字资产钱包</title><subtitle></subtitle><entry><title type="html">Bitbill Wallet正式上线，欢迎下载使用！！</title><link href="http://localhost:4000/2018/02/08/bitbill_online.html" rel="alternate" type="text/html" title="Bitbill Wallet正式上线，欢迎下载使用！！" /><published>2018-02-08T13:00:46+08:00</published><updated>2018-02-08T13:00:46+08:00</updated><id>http://localhost:4000/2018/02/08/bitbill_online</id><content type="html" xml:base="http://localhost:4000/2018/02/08/bitbill_online.html">&lt;h3 id=&quot;苹果下载&quot;&gt;苹果下载&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-08T14:24:44+08:00</updated><id>http://localhost:4000/</id><title type="html">最安全最好用的数字资产钱包</title><subtitle></subtitle><entry><title type="html">Bitbill Wallet正式上线欢迎下载使用！！</title><link href="http://localhost:4000/2018/02/08/bitbill_online.html" rel="alternate" type="text/html" title="Bitbill Wallet正式上线欢迎下载使用！！" /><published>2018-02-08T13:00:46+08:00</published><updated>2018-02-08T13:00:46+08:00</updated><id>http://localhost:4000/2018/02/08/bitbill_online</id><content type="html" xml:base="http://localhost:4000/2018/02/08/bitbill_online.html">&lt;h3 id=&quot;苹果下载&quot;&gt;苹果下载&lt;/h3&gt;
 
 &lt;p&gt;前提条件&lt;/p&gt;
 
@@ -104,10 +104,13 @@
     &lt;p&gt;将手机地区更改到IP所在的国家，更改步骤设置–通用–语言与地区&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;注销当前登录的Apple ID、icloud，注销方法进行 设置 节目最上面注销&lt;/p&gt;
+    &lt;p&gt;注销当前登录的Apple ID、icloud，注销方法进入 设置 界面最上面注销&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;将Appstore更改到IP所在的国家，更改办法，在Appstore点击登录，会看到创建新Apple ID选项，点击创建新ID，可以更改国家。&lt;/p&gt;
+    &lt;p&gt;将Appstore更改到IP所在的国家，更改办法，在Appstore点击登录，会看到创建新Apple ID选项，点击创建新ID，可以更改国家。
+&lt;img src=&quot;https://raw.githubusercontent.com/zhaogangwang/bitbill/master/images/1.jpg&quot; alt=&quot;1&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/zhaogangwang/bitbill/master/images/2.jpg&quot; alt=&quot;2&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;网上搜索一个该国家的地址电话邮编&lt;/p&gt;
@@ -118,8 +121,12 @@
 
 &lt;p&gt;&lt;strong&gt;注册&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;在Appstore里找到一个免费的应用点击获取，然后根据提示创建新的ID&lt;/p&gt;
+&lt;p&gt;在Appstore里找到一个免费的应用点击获取，然后根据提示创建新的ID
+	&lt;img src=&quot;https://raw.githubusercontent.com/zhaogangwang/bitbill/master/images/3.jpg&quot; alt=&quot;3&quot; /&gt;	
+	&lt;img src=&quot;https://raw.githubusercontent.com/zhaogangwang/bitbill/master/images/4.jpg&quot; alt=&quot;4&quot; /&gt;	
+	&lt;img src=&quot;https://raw.githubusercontent.com/zhaogangwang/bitbill/master/images/5.jpg&quot; alt=&quot;5&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;一定要选择免费的应用，支付方式才会出现“无”，另外这里弹出的默认国家一定要是IP所在国家，如果默认国家不对，需要回到准备工作第4步，更改好。&lt;/p&gt;
+&lt;p&gt;一定要选择免费的应用，支付方式才会出现“无”，另外这里弹出的默认国家一定要是IP所在国家，如果默认国家不对，需要回到准备工作第4步，更改好。
+	&lt;img src=&quot;https://raw.githubusercontent.com/zhaogangwang/bitbill/master/images/6.jpg&quot; alt=&quot;6&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;根据提示填好之前准备的地址即可完成创建。&lt;/p&gt;</content><author><name></name></author><summary type="html">工具 VPN 必须是设置成全局代理 准备工作 VPN全局代理下，查看手机当前IP所属国家，百度搜索“IP地址查询”就会显示</summary></entry></feed>
