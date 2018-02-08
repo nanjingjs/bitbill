@@ -14,7 +14,7 @@ VPN 必须是设置成全局代理
 
 2.  将手机地区更改到IP所在的国家，更改步骤设置--通用--语言与地区 
 
-3.  注销当前登录的Apple ID、icloud，注销方法进行 设置 节目最上面注销
+3.  注销当前登录的Apple ID、icloud，注销方法进入 设置 界面最上面注销
 
 4.  将Appstore更改到IP所在的国家，更改办法，在Appstore点击登录，会看到创建新Apple ID选项，点击创建新ID，可以更改国家。
 	![1](https://raw.githubusercontent.com/zhaogangwang/bitbill/master/images/1.jpg)
