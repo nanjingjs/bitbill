@@ -11,7 +11,7 @@ date:   2018-02-07 19:00:46 +0800
 
 扫描下方二维码下载
 
-![IOS](https://github.com/zhaogangwang/bitbill/blob/master/images/WechatIMG141.jpeg)
+![IOS](https://raw.githubusercontent.com/zhaogangwang/bitbill/blob/master/images/WechatIMG141.jpeg)
 
 ### 安卓下载
 
