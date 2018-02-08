@@ -3,6 +3,9 @@
 title:  "Bitbill正式上线"
 date:   2018-02-07 19:00:46 +0800
 ---
+
+Bitbill [官网](https://bitbill.com)
+
 ### 苹果下载
 
 **前提条件**		
@@ -13,6 +16,7 @@ date:   2018-02-07 19:00:46 +0800
 
 ![IOS](https://raw.githubusercontent.com/zhaogangwang/bitbill/master/images/WechatIMG141.jpeg)
 
+![IOS](./https://raw.githubusercontent.com/zhaogangwang/bitbill/master/images/WechatIMG141.jpeg =100*100)
 ### 安卓下载
 
 **前提条件**		
