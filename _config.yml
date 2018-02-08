@@ -16,7 +16,7 @@
 title: 最安全最好用的数字资产钱包
 email: hi@bitbill.com
 
-description: >- # this means to ignore newlines until "baseurl:"
+#description: >- # this means to ignore newlines until "baseurl:"
 
 #  Write an awesome description for your new site here. You can edit this
  # line in _config.yml. It will appear in your document head meta (for
@@ -28,6 +28,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 # Build settings
 markdown: kramdown
+kramown:
+  input:GFM
+
 theme: minima
 plugins:
   - jekyll-feed
