@@ -17,6 +17,7 @@ date:   2018-02-07 19:00:46 +0800
 ![IOS](https://raw.githubusercontent.com/zhaogangwang/bitbill/master/images/WechatIMG141.jpeg)
 
 
+
 ### 安卓下载
 
 前提条件	
@@ -26,6 +27,7 @@ date:   2018-02-07 19:00:46 +0800
 
 
 [官网下载地址](https://www.bitbill.com/cn/wallet/)
+
 
 
 ### 联系方式  
