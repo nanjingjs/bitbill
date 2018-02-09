@@ -9,7 +9,8 @@ categories: jekyll update
 &ensp;&ensp;&ensp;&ensp;首次打开Bitbill会看到“**创建钱包**”的选项，点击 创建钱包 —> 我知道了—> 输入ID —> 输入密码 —> 确认密码 —> 完成
 
 **钱包ID是你在使用Bitbill钱包时的唯一ID，此ID只在Bitbill有效，通过ID可以进行添加联系人、发送比特币等操作**
-###备份钱包	
+
+### 备份钱包	
 
 备份钱包主要有两种选择		
 	
